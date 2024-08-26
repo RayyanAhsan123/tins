@@ -1,10 +1,10 @@
-streamlit==1.37.1
+Flask>=2.3.0
 requests==2.32.3
 pandas==2.2.2
 matplotlib==3.9.2
-prophet==1.1.5
+prophet-core>=1.1.5
 scikit-learn==1.2.2
-numpy
+numpy>=1.26.0
 statsmodels==0.14.0
-Cython
-pystan==2.19.1.1
+Cython>=0.29.34
+pystan>=2.19.1.1
